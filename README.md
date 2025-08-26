@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Charistian Hia and I'm a Student, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/charistian-hia/charistian-hia/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charistian-hia/charistian-hia/output/pacman-contribution-graph-dark.svg">
