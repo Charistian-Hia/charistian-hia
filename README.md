@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">💻 Programming Languages</h4>
+<h3 align="left">💻 Programming Languages</h3>
 
 ###
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">🌐 Web Development</h4>
+<h3 align="left">🌐 Web Development</h3>
 
 ###
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">🗄️ Databases</h4>
+<h3 align="left">🗄️ Databases</h3>
 
 ###
 
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">📫 Let's Connect!</h4>
+<h3 align="left">📫 Let's Connect!</h3>
 
 ###
 
