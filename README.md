@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi👋, I'm Charis!</h2>
+<h1 align="left">Hi👋, I'm Charis!</h1>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3QxbDgzNXdyeGlpZHJzNGhveGk3MnZua3dlOHJueWs5OHZ6eWFnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEcIyVc6ukQV2eb86t/giphy.gif"  />
+  <img height="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3QxbDgzNXdyeGlpZHJzNGhveGk3MnZua3dlOHJueWs5OHZ6eWFnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEcIyVc6ukQV2eb86t/giphy.gif"  />
 </div>
+
+###
+
+<h2 align="left">🚀 Tech Stack</h2>
 
 ###
 
