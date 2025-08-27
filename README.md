@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ###
 
 <h1 align="left">🚀 Tech Stack</h1>
-
+<hr>
 ###
 
 <h3 align="left">💻 Programming Languages</h3>
