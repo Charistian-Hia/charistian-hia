@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="left">🚀 Tech Stack</h1>
-<hr>
-###
+<h2 align="left">🚀 Tech Stack</h2>
 
-<h3 align="left">💻 Programming Languages</h3>
+<h2 align="left">💻 Programming Languages</h2>
 
 ###
 
@@ -41,7 +39,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🌐 Web Development</h3>
+<h2 align="left">🌐 Web Development</h2>
 
 ###
 
@@ -61,7 +59,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🗄️ Databases</h3>
+<h2 align="left">🗄️ Databases</h2>
 
 ###
 
@@ -76,7 +74,7 @@ Here are some ideas to get you started:
 ###
 
 <hr>
-<b><h3 align="left">📫 Let's Connect!</h3><b>
+<b><h2 align="left">📫 Let's Connect!</h2><b>
 
 ###
 
