@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 ![Banner Charistian Hia](img/github-header-banner.png)
 
-<div align="center">
-  <img height="800" width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3QxbDgzNXdyeGlpZHJzNGhveGk3MnZua3dlOHJueWs5OHZ6eWFnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEcIyVc6ukQV2eb86t/giphy.gif"  />
-</div>
-
 ###
 
 <h2 align="left">🚀 Tech Stack</h2>
