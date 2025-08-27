@@ -14,44 +14,76 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi👋! My name is Charistian Hia and I'm a Student , from Indonesian</h2>
-
-###
-
-  <img src="https://github-readme-stats.vercel.app/api?username=charistian-hia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charistian-hia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">Hi👋, I'm Charis!</h2>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=charistian-hia.charistian-hia&left_text=PROFILE%20VIEWS"  />
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3QxbDgzNXdyeGlpZHJzNGhveGk3MnZua3dlOHJueWs5OHZ6eWFnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEcIyVc6ukQV2eb86t/giphy.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3QxbDgzNXdyeGlpZHJzNGhveGk3MnZua3dlOHJueWs5OHZ6eWFnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEcIyVc6ukQV2eb86t/giphy.gif"  />
+<h4 align="left">💻 Programming Languages</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<h4 align="left">🌐 Web Development</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h4 align="left">🗄️ Databases</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
+</div>
+
+###
+
+<h4 align="left">📫 Let's Connect!</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/charistian-hia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
 </div>
 
 ###
@@ -61,5 +93,11 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charistian-hia/charistian-hia/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charistian-hia/charistian-hia/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=charistian-hia.charistian-hia&left_text=PROFILE%20VIEWS"  />
+</div>
 
 ###
