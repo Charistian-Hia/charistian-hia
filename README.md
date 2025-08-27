@@ -15,19 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###
-
 ![Banner Charistian Hia](img/github-header-banner.png)
-
-###
 
 <h2 align="left">🚀 Tech Stack</h2>
 
-###
-
 <h2 align="left">💻 Programming Languages</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -39,11 +31,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
-
 <h2 align="left">🌐 Web Development</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -59,11 +47,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
-
 <h2 align="left">🗄️ Databases</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
@@ -73,11 +57,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
 </div>
 
-###
-
 <h2 align="left">📫 Let's Connect!</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/charistian-hia/" target="_blank">
@@ -89,18 +69,12 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charistian-hia/charistian-hia/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charistian-hia/charistian-hia/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charistian-hia/charistian-hia/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=charistian-hia.charistian-hia&left_text=PROFILE%20VIEWS"  />
 </div>
-
-###
